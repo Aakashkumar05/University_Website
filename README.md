@@ -6,3 +6,6 @@ Explore our dynamic Landing Page for educational institutions, powered by JavaSc
 1. HTML
 2. CSS
 3. JavaScript
+
+> For Storing Contact Us Data Using :-
+https://formspree.io/ 
