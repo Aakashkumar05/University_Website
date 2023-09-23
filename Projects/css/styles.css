@@ -393,24 +393,6 @@ footer ul li a:hover {
     border-top: 1px solid var(--color-bg2);
 }
 
-/* ================MEDIA QUERIES (TABLETS)================== */
-@media screen and (max-width: 1024px) {
-   .container {
-    width: var(--container-width-md);
-   }
-   h1 {
-     font-size: 1.2rem;
-   }
-   h2 {
-    font-size: 1.7rem;
-   }
-   h3 {
-    font-size: 1.4rem;
-   }
-   h4 {
-    font-size: 2.rem;
-   }
-
    /* ============navbar=============== */
    nav button {
     display: inline-block;
@@ -520,27 +502,10 @@ header {
     grid-template-columns: 1fr 1fr;
 }
 
-/* ==================FAQS===================== */
-.faqs__container {
-    grid-template-columns: 1fr;
-}
-.faqs {
-    padding: 1.5rem;
-}
-
 /* ==================FOOTER===================== */
 .footer__container {
     grid-template-columns: 1fr 1fr;
 }
-
-
-}
-
-/* ===========MEDIA QUERIES(PHONES)==================== */
-@media screen and (max-width: 600px){
-    .container {
-        width: var(--container-width-sm);
-    }
 
     /* =========================NAVBAR========================= */
     .nav__menu {
